@@ -1,10 +1,7 @@
 //
 //  UserModel.swift
 //  AUTOBCM
-//
-//  Created by vishnu jangid on 09/02/18.
-//  Copyright © 2018 brsoftech. All rights reserved.
-//
+
 
 import UIKit
 
